@@ -40,7 +40,7 @@ System – Windows 11
 <h2>Project Screenshots</h2>
 
 This is the HTML file 
-<img src="C:\Users\Chaitanya\Pictures\Screenshots\Screenshot (53).png"></img>
+<img src="S"></img>
  This is the JavaScript file
 
  
