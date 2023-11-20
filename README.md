@@ -1,3 +1,7 @@
+# Tetris-Game-App
+Tetris Game App
+
+
 
 <h1>Project Title – Developed & Deployed Tetris Game App Using Azure Services & Created Docker Image.</h1>
 
@@ -27,80 +31,42 @@ The Azure CLI is installed for easy interaction with Azure services, and a Docke
 
 <h2>Azure Services Used</h2>
  
-Virtual Machine
-Azure CLI 
-Container Registry
-Container Instance
+Virtual Machine, 
+Azure CLI,  
+Container Registry, 
+Container Instance.
 
 <h2>Environment Used</h2>
 
-VM – linux
+VM – linux, 
 System – Windows 11
 
 <h2>Project Screenshots</h2>
 
-This is the HTML file 
+<h3>This is the HTML file</h3>
+<img src="Screenshot (53).png"></img>
+ <h3>This is the JavaScript file</h3>
+ <img src="Screenshot (54).png"></img>
+<h3>Github account and the project repository</h3>
+<img src="Screenshot (60).png"></img>
+<h3>Azure virtual machine Service</h3>  
 <img src="Screenshot (52).png"></img>
- This is the JavaScript file
+<h3>Installing azure CLI, Installing Docker & Configuring it, pulling the image for Nginx, creating a docker file, building docker image using docker file & push image to azure container registry.</h3>
+<img src="Screenshot (62).png"></img>
+<img src="Screenshot (66).png"></img>
+<img src="Screenshot (64).png"></img>
+<img src="Screenshot (63).png"></img>
+<h3>Azure Container Registry service</h3>
+<img src="Screenshot (55).png"></img>
+<h3>Azure Container Instance service</h3>
+<img src="Screenshot (56).png"></img>
+<h3>Docker Image in Azure Container Instance</h3>
+<img src="Screenshot (59).png"></img>
+<h3>Final output of the project</h3>
+<img src="Screenshot (57).png"></img>
+<img src="Screenshot (58).png"></img>
 
- 
-
-
-
-
-
-
-
-Github account and the project repository
-
-
-
-
-
-
-
-Azure virtual machine Service  
-
-
-
-
-
-
-Installing azure CLI, Installing Docker & Configuring it, pulling the image for Nginx, creating a docker file, building docker image using docker file & push image to azure container registry. 
-
-
-
-
-
-
-
-
-
-
-
-Azure Container Registry service
-
-
-
-Azure Container Instance service
-
-
-
-
-
-
-
-Docker Image in Azure Container Instance 
-
-
-
-Final output of the project
-
-
-
-
-Project Conclusion
-
+<h2>Project Conclusion</h2>
 
 In conclusion, this project successfully addressed the challenge of managing dependencies by packaging the Tetris game app within a Docker image. The use of Azure services, including Virtual Machines, Azure Container Registry, and Azure Container Instances, provided a robust and scalable infrastructure for deploying the game.
 
@@ -114,10 +80,7 @@ Overall, this project demonstrated the practical application of Azure services a
 
 
 
-
-
-# Tetris-Game-App
-Tetris Game App
+<h1>LINKS</h1>
 
 click here for Project Demo URL: http://tetris-game-project.ara4feeac0btd6e3.eastus.azurecontainer.io/
 
